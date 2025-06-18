@@ -24,7 +24,7 @@ O projeto foi desenvolvido para atender a uma necessidade crítica de previsão 
 
 <hr>
 
-🔗 Links
+### 🔗 Links
 
 - Dashboard do Power BI: Acesse
 
@@ -34,6 +34,8 @@ O projeto foi desenvolvido para atender a uma necessidade crítica de previsão 
 
 - Dashboards e Códigos Utilizados neste Projeto: Acesse
 
-✍️ Autor
+<hr>
+
+### ✍️ Autor
 
 - Mateus França - Linkedin
